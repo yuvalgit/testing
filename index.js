@@ -65,7 +65,7 @@ console.log("GetPhoto");
         return res.json({
     messages: [
         {           
-    text: "Sorry champ, can't process request"
+    text: "Sorry, can't process request"
     }
 ]
         }); 
